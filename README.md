@@ -13,6 +13,8 @@ Features:-
 
 5. Filter questions according to different levels. 
 
+6. Uses local storage as database.
+
 Demo Video :-
 
 https://user-images.githubusercontent.com/76861751/147385558-d7108441-4841-418e-aa93-94a8ecaf031f.mp4
